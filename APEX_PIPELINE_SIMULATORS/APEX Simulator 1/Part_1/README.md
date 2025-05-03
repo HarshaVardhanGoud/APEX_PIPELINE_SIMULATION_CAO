@@ -36,13 +36,3 @@ A template for 5 Stage APEX In-order Pipeline
 ```
  ./apex_sim <input_file_name>
 ```
-
-## Author
-
- - Copyright (C) Gaurav Kothari (gkothar1@binghamton.edu)
- - State University of New York, Binghamton
-
-## Bugs
-
- - Please contact your TAs for any assistance or query
- - Report bugs at: gkothar1@binghamton.edu
